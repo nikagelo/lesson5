@@ -1,35 +1,145 @@
+*{
+	box-sizing: border-box;
+}
+body{
+	margin-left: 240px;
+}
 nav{
+	display: inline-block;
+}
+ul{
+	display: inline-block;
+}
+
+header{
 	background-color: #0020F4;
+	margin-left: -240px;
+	height: 387.56px;
+}
+.logo{
+	margin-left: 240px;
+}
+.main-pic{
+	margin-top: -193px;
+	margin-bottom: 30px;
 }
 .navigation{
+	
 	list-style: none;
 	color: #FFFFFF;
 	text-decoration: none;
 	font-size: 16px;
+	margin-left: 50px;
+	display: inline-block;
 
 }
+li{
+	display: inline-block;
+}
+nav li{
+	margin-left: 50px;
+}
+button{
+	margin-left: 50px;
+}
+
 .text{
+	margin-left: 109.5px;
+	width: 951px;
 	color: #171717;
 	font-size: 16px;
 	line-height: 26px;
+	margin-bottom: 18px;
 }
 h2{
 	line-height: 26px;
 	font-size: 28px;
 	color: #171717;
+	margin-bottom: 60px;
 }
-.contact{
+.small-images{
+	margin-right: 25px;
+	margin-bottom: 60px;
+}
+.contact-button{
+	padding-left: 30px;
+	padding-top: 23px;
+	padding-bottom: 18px;
+	padding-right: 36px;
 	color: #171717;
 	font-size: 16px;
 	background-color: #FFFFFF;
 	border-radius: 28px;
 }
 .more{
+	padding: 18px 77px 18px 57px;
+	margin-left: 450px;
+	margin-top: 40px;
 	background-color: #0A22F4;
 	color: #FFFFFF;	
 	font-size: 16px;
 	border-radius: 28px;
+	margin-bottom: 180px;
 }
 footer{
+	margin-left: -240px;
 	background-color: #0A22F4;
+}
+.contact{
+	margin-left: 240px;
+}
+.contact h2{
+	color: #FFFFFF;
+	padding-top: 275px;
+	margin-bottom: 30px;
+}
+.contact p{
+	width: 463px;
+	margin-bottom: 58px;
+	color: #FFFFFF;
+	
+}
+.phone{
+	display: inline-block;
+	color: #FFFFFF;
+	font-size: 22px;
+	margin-left: 20px;
+}
+.map{
+	margin-bottom: 70px;
+	border-radius: 15px;
+}
+.white-back{
+	width: 70px;
+	height: 70px;
+	background-color: #FFFFFF;
+	border-radius: 50px;
+	display: inline-block;
+}
+.img{
+	margin-top: 20px;
+	margin-left: 20px;
+}
+.wrapper{
+	display: inline-block;
+	margin-left: -466px;
+}
+.wrapper2{
+	display: inline-block;
+	margin-left: -206px;
+}
+.footer-txt1{
+	color: #FFFFFF;;
+	display: inline-block;
+	margin-bottom: 20px;
+	margin-left: 240px;
+	margin-right: 896px;
+}
+
+.footer-txt2{
+	color: #FFFFFF;;
+	display: inline-block;
+}
+.footer-img{
+	margin-left: 30px;
 }
