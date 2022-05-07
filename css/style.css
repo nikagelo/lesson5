@@ -1,0 +1,35 @@
+nav{
+	background-color: #0020F4;
+}
+.navigation{
+	list-style: none;
+	color: #FFFFFF;
+	text-decoration: none;
+	font-size: 16px;
+
+}
+.text{
+	color: #171717;
+	font-size: 16px;
+	line-height: 26px;
+}
+h2{
+	line-height: 26px;
+	font-size: 28px;
+	color: #171717;
+}
+.contact{
+	color: #171717;
+	font-size: 16px;
+	background-color: #FFFFFF;
+	border-radius: 28px;
+}
+.more{
+	background-color: #0A22F4;
+	color: #FFFFFF;	
+	font-size: 16px;
+	border-radius: 28px;
+}
+footer{
+	background-color: #0A22F4;
+}
